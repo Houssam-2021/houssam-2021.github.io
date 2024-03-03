@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RecettesFaciles</title>
+    <title>RecetteFacile</title>
     <style>
       hr {
           border: none;
@@ -29,11 +29,11 @@
     </nav>
   </div>
   <hr>
-  <h1>Recettes Faciles</h1>
+  <h1>Recette Facile</h1>
   <p>Un site web dédié à la cuisine avec des recettes simples, rapides et délicieuses pour les personnes occupées qui veulent préparer des repas savoureux sans passer des heures en cuisine.</p>
-  <h2>Voici une liste des recettes facile à faire à la maison:</h2> 
+  <h2>Voici une recette facile à faire à la maison:</h2> 
   <hr> 
-  <h1>1. Pâtes à la Carbonara</h1>
+  <h1>Pâtes à la Carbonara</h1>
   <h2>Ingrédients :</h2>
   <ul>
     <li>400 g de spaghetti</li>
